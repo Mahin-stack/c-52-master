@@ -1,0 +1,22 @@
+h1{
+    background-color: aqua;
+}
+h2{
+background-color: rgb(43, 168, 226);
+}
+h3{
+background-color: chartreuse;}
+
+.head{
+    background-color: blueviolet;
+    display : flex;
+justify-content: space-evenly;
+}
+.footer{
+    display : flex;
+    justify-content:flex-end;
+}
+
+.huy{
+    border : solid
+}
