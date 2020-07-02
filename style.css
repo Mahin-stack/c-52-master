@@ -1,14 +1,15 @@
 h1{
-    background-color: aqua;
+    background-color:#f0ff00
 }
 h2{
-background-color: rgb(43, 168, 226);
+background-color: #00e640
 }
 h3{
-background-color: chartreuse;}
+background-color:#9a12b3
+}
 
 .head{
-    background-color: blueviolet;
+    background-color:#f9690e;
     display : flex;
 justify-content: space-evenly;
 }
