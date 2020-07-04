@@ -1,15 +1,22 @@
 h1{
-    background-color:#f0ff00
+    background-color:#f62459;
+    text-align: center;
 }
 h2{
 background-color: #00e640
 }
 h3{
-background-color:#9a12b3
+    background-color:#9a12b3;
+    color : white;
+    text-align: center;
+
+}
+h4{
+    color: red;
 }
 
 .head{
-    background-color:#f9690e;
+    background-color:#19b5fe;
     display : flex;
 justify-content: space-evenly;
 }
@@ -20,4 +27,31 @@ justify-content: space-evenly;
 
 .huy{
     border : solid
+}
+
+a:link{
+    color : red
+}
+a:visited{
+    color:red
+}
+
+.huy{
+    margin-right:30pxs
+}
+
+.huy a{
+    margin-left: 260px;
+}
+
+.item{
+    position: relative;
+}
+
+.item:hover{
+opacity: 0.353;
+}
+
+.pop:hover{
+    opacity:0.232
 }
